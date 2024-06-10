@@ -20,7 +20,7 @@ This supplementary material contains the following files and directories:
  - `requirement.yml`: a file that stores required python libraries in a conda environment.
 
 
-The dataset, raw results, and other related files can be obtained from ... . 
+The datasets, all results and analysis, models of the existing approaches, and Magicoder adapters can be obtained from ... . 
 
 ## Required libraries
 
